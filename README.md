@@ -1,2 +1,7 @@
-# kotlin-compose-my-labs
-Repositorio de práctica Kotlin &amp; Jetpack Compose Colección de ejercicios, ejemplos y mini desafíos para fortalecer el dominio de Kotlin y Jetpack Compose. Incluye desde fundamentos del lenguaje hasta interfaces modernas con Compose. 
+# Kotlin & Compose Labs
+
+Ejercicios y mini desafíos de Kotlin y Jetpack Compose para práctica y aprendizaje colaborativo.
+
+## Estructura
+Cada carpeta contiene un ejercicio o mini proyecto independiente:
+
