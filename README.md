@@ -6,7 +6,7 @@ Ejercicios y mini desafíos de Kotlin y Jetpack Compose.
 Cada carpeta contiene un ejercicio o mini proyecto independiente
 ```
 kotlin_compose_my_labs/
-├─ 00_apuntes/ # Notas o apuntes personales
+├─ 00_apuntes/
 ├─ 01_basic/
 ├─ 02_functions
 ├─ 03_collections
